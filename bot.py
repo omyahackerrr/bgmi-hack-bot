@@ -1,7 +1,7 @@
 import telebot
 
 # Bot Token
-BOT_TOKEN = '7824962565:AAECzNSYsu7eoGLQpElZ9fCVqBAAoxnlWRA'
+BOT_TOKEN = '7824962565:AAFmxZXMySFUcGgX0ww_K-oepf0Q4Z-Z9vs'
 
 # Admin Username
 ADMIN_USERNAME = '@omyahackerroffical'
